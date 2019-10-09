@@ -1,0 +1,54 @@
+body{
+	background-color:black;
+}
+
+.tab{
+	background-color:white;
+	width:900px;
+	margin:auto;
+}
+
+.back{
+	background-color:white;
+	margin: 40px;
+	width:800px;
+}
+
+.int{
+	height:65px
+}
+
+.men{
+	background-color:black;
+}
+
+.td{
+	height:80px;
+	width:200px;
+}
+
+.img{
+	background-color:black;
+	height:575px;
+}
+
+.red{
+	width:780px;
+	margin-top:10px;
+}
+
+.bt{
+	height:80px;
+	width:200px;
+	background-color:black;
+	font-style:arial;
+	color:white;
+	border-width:0;
+	font-size:24px;
+}
+
+button:hover{
+	background-color:#cf550e;
+    background-image: linear-gradient(to bottom, #fa6b19, #db4002);
+    color: white;
+}
